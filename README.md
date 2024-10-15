@@ -1,7 +1,6 @@
 # Let's create a markdown file with the provided content for the Contra-style game project.
 
 # Content of the markdown file
-markdown_content = """
 # Contra-Style Game
 
 ## Overview
