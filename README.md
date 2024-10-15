@@ -1,6 +1,3 @@
-# Let's create a markdown file with the provided content for the Contra-style game project.
-
-# Content of the markdown file
 # Contra-Style Game
 
 ## Overview
